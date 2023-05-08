@@ -1,4 +1,5 @@
-Abrir la consola e imprimir la ubicación actual.// pwd
+1. Abrir la consola e imprimir la ubicación actual.// pwd
+2.
 Crear una carpeta llamada ejercicios en el escritorio desde la consola, si no estas en la ruta del escritorio, muevete a ella.// cd Desktop; mkdir ejercicios
 Cambiar la ubicación a la nueva carpeta que crearon.// cd ejercicios
 Abrir la carpeta con VSCode.// code
